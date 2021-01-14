@@ -9,6 +9,9 @@ wanted to maintain a structured way of displaying the content. I utilized differ
 
 I took inspiration from Real's website for the colors of the UI.
 
+I would also like to mention that I used class components on the frontend since that is what I was most comfortable using
+for this assignment.
+
 On the backend, I added a couple fields to the section-details table in order to keep track of the
 participant list and the course name. Other than that, I left the tables as they were.
 
