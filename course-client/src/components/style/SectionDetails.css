@@ -1,0 +1,22 @@
+.MuiButton-containedPrimary {
+  float: right;
+  background-color: #1f4db4 !important;
+}
+
+.Mui-disabled {
+  float: right;
+}
+
+.MuiButton-root {
+  border-radius: 0px !important;
+}
+
+.section-details-heading {
+  text-align: left;
+  color: #7a5c50;
+  font-weight: bold;
+}
+
+.section-details-container {
+  padding-bottom: 20px;
+}

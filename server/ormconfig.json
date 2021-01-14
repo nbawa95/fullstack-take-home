@@ -1,0 +1,15 @@
+{
+	"type": "postgres",
+	"host": "localhost",
+	"port": 5560,
+	"username": "admin",
+	"password": "password",
+	"database": "course-db",
+	"entities": ["src/entity/**/*.ts"],
+	"migrations": ["src/migration/**/*.ts"],
+	"cli": {
+		"entitiesDir": "src/entity",
+		"migrationsDir": "src/migration",
+		"subscribersDir": "src/subscriber"
+	}
+}

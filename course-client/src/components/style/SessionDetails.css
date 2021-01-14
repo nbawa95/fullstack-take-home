@@ -1,0 +1,14 @@
+.MuiListItemText-primary {
+  color: #a47f6c;
+  padding-bottom: 10px;
+}
+
+.MuiListItemText-primary .session-details-name {
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.MuiListItemText-secondary {
+  color: black !important;
+  font-weight: lighter !important;
+}

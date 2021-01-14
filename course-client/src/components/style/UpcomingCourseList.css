@@ -1,0 +1,8 @@
+.MuiAccordion-root {
+  background-color: #fffbf5 !important;
+}
+
+.accordion-heading {
+  color: #573326;
+  font-weight: bold !important;
+}
